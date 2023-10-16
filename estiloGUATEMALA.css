@@ -1,0 +1,34 @@
+body { 
+	color: green;
+	background-color: #FAFFAF;
+	font-family: georgia;
+}
+
+h1 { 
+	color: black;
+	background-color: #95D1CC;
+	font-family: Arial Black;
+}
+
+p { 
+	color: #22577E;
+	font-family: Helvetica;
+	text-align: justify;
+}
+
+#Estilo1 { 
+	color: #5584AC;
+	font-family: Arial;
+	text-align: right;
+}
+
+#Estilo2 { 
+	color: #726A95;
+	font-family: Candara;
+}
+
+#Estilo3 { 
+	color: #435560;
+	font-family: Lucida Console;
+	text-align: center;
+}
